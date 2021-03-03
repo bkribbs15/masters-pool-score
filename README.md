@@ -9,24 +9,22 @@ Masters Pool Scoreboard
 
 ## Masters Pool Scoreboard
 
-REPO DESCIPTION
+NodeJs Application for tracking a masters pool amongst friends.
 
-```
-CODE SAMPLE
-```
+
 <h2 align="Left">
 Setup
 </h2>
 
 ```
-INSTALL SCRIPT
+npm install
 ```
 <h2 align="Left">
 Local Development
 </h2>
 
 ```
-RUNNING SCRIPT
+npm run dev
 ```
 <h2 align="Left">
 Contributors
