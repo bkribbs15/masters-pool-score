@@ -4,7 +4,7 @@ Masters Pool Scoreboard
 </h1>
 
 <p align="left">
-    ## ICONS
+    https://github.com/bkribbs15/masters-pool-score/actions/workflows/<WORKFLOW_FILE>/badge.svg
 </p>
 
 ## Masters Pool Scoreboard
