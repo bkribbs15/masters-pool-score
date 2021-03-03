@@ -1,13 +1,13 @@
 
 <h1 align="center">
-Repo Title
+Masters Pool Scoreboard
 </h1>
 
 <p align="left">
     ## ICONS
 </p>
 
-## Repo Title
+## Masters Pool Scoreboard
 
 REPO DESCIPTION
 
