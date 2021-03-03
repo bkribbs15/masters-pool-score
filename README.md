@@ -4,7 +4,7 @@ Masters Pool Scoreboard
 </h1>
 
 <p align="left">
-    <a href="https://github.com/bkribbs15/masters-pool-score/actions/workflows/masters-test.yml/badge.svg?branch=main"><img src="https://github.com/bkribbs15/masters-pool-score/actions/workflows/masters-test.yml/badge.svg?branch=main" alt="Scoreboard Build Status"></a>
+    <a href="https://github.com/bkribbs15/masters-pool-score/actions/workflows/masters-test.yml/badge.svg?branch=main"><img src="https://github.com/bkribbs15/masters-pool-score/actions/workflows/masters-test.yml" alt="Scoreboard Build Status"></a>
 </p>
 
 ## Masters Pool Scoreboard
