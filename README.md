@@ -4,7 +4,7 @@ Masters Pool Scoreboard
 </h1>
 
 <p align="left">
-    https://github.com/bkribbs15/masters-pool-score/actions/workflows/masters-test.yml/badge.svg
+    ![Scoreboard Build Status](https://github.com/bkribbs15/masters-pool-score/actions/workflows/masters-test.yml/badge.svg)
 </p>
 
 ## Masters Pool Scoreboard
